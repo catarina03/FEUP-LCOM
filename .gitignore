@@ -17,3 +17,11 @@ lab5/.clang-format
 proj/.svn/
 proj/.vscode/
 proj/.clang-format
+proj/src/.vscode/
+proj/src/core*
+proj/src/proj
+proj/src/svn-commit.tmp
+proj/src/.gdbinit
+
+
+
