@@ -1,7 +1,7 @@
 # FEUP-LCOM
 
 Project and labs developed during the Computer Labs curricular unit @ FEUP.\
-All code written in colaboration with Clara Gadelho.
+All code written in colaboration with [Clara Gadelho](https://github.com/claramoreirag).
 
 ## General Info
 
